@@ -1,0 +1,16 @@
+{
+  "cenas": [
+    {
+      "texto": "Inicio: O projeto comeca em uma oficina antiga.",
+      "imagem": "cena1.png"
+    },
+    {
+      "texto": "Meio: O motor e completamente revisado peca por peca.",
+      "imagem": "cena2.png"
+    },
+    {
+      "texto": "Fim: O carro funciona perfeitamente e ganha as pistas.",
+      "imagem": "cena3.png"
+    }
+  ]
+}
