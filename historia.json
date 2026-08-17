@@ -1,15 +1,15 @@
 {
   "cenas": [
     {
-      "texto": "Inicio: O projeto comeca em uma oficina antiga.",
+      "texto": "Inicio: O projeto comeca com um belissimo opala.",
       "imagem": "cena1.jpg"
     },
     {
-      "texto": "Meio: O motor e completamente revisado peca por peca.",
+      "texto": "Meio: Agora temos a primeira Perua (Wagon) fabricada no Brasil.",
       "imagem": "cena2.jpg"
     },
     {
-      "texto": "Fim: O carro funciona perfeitamente e ganha as pistas.",
+      "texto": "Fim: E pra finalizar, o mais conhecido mundialmente Fusca.",
       "imagem": "cena3.jpg"
     }
   ]
